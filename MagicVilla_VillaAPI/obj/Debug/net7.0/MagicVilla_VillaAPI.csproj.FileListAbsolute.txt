@@ -45,3 +45,12 @@
 /Users/patryk/Projects/MagicVilla/MagicVilla_VillaAPI/bin/Debug/net7.0/Serilog.Sinks.Console.dll
 /Users/patryk/Projects/MagicVilla/MagicVilla_VillaAPI/bin/Debug/net7.0/Serilog.Sinks.Debug.dll
 /Users/patryk/Projects/MagicVilla/MagicVilla_VillaAPI/bin/Debug/net7.0/Serilog.Sinks.File.dll
+/Users/patryk/Projects/MagicVilla/MagicVilla_VillaAPI/bin/Debug/net7.0/Humanizer.dll
+/Users/patryk/Projects/MagicVilla/MagicVilla_VillaAPI/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/patryk/Projects/MagicVilla/MagicVilla_VillaAPI/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/patryk/Projects/MagicVilla/MagicVilla_VillaAPI/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/patryk/Projects/MagicVilla/MagicVilla_VillaAPI/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/patryk/Projects/MagicVilla/MagicVilla_VillaAPI/bin/Debug/net7.0/Mono.TextTemplating.dll
+/Users/patryk/Projects/MagicVilla/MagicVilla_VillaAPI/bin/Debug/net7.0/Npgsql.dll
+/Users/patryk/Projects/MagicVilla/MagicVilla_VillaAPI/bin/Debug/net7.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/Users/patryk/Projects/MagicVilla/MagicVilla_VillaAPI/bin/Debug/net7.0/System.CodeDom.dll

@@ -1,13 +1,16 @@
-﻿using Serilog;
+﻿using MagicVilla_VillaAPI.Data;
+using Microsoft.EntityFrameworkCore;
+using Serilog;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 
-Log.Logger = new LoggerConfiguration().MinimumLevel.Debug().WriteTo.File("log/villaLogs.txt", rollingInterval: RollingInterval.Day).CreateLogger();
-builder.Host.UseSerilog();
+//Log.Logger = new LoggerConfiguration().MinimumLevel.Debug().WriteTo.File("log/villaLogs.txt", rollingInterval: RollingInterval.Day).CreateLogger();
+//builder.Host.UseSerilog();
 
-
+builder.Services.AddDbContext<ApplicationDbContext>(option =>
+    option.UseNpgsql(builder.Configuration.GetConnectionString("SQLPostgres")));
 builder.Services.AddControllers(option =>
 {
     //option.ReturnHttpNotAcceptable = true;
