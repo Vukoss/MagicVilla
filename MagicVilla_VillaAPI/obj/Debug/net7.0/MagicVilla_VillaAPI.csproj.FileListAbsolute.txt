@@ -31,3 +31,17 @@
 /Users/patryk/Projects/MagicVilla/MagicVilla_VillaAPI/obj/Debug/net7.0/MagicVilla_VillaAPI.pdb
 /Users/patryk/Projects/MagicVilla/MagicVilla_VillaAPI/obj/Debug/net7.0/MagicVilla_VillaAPI.genruntimeconfig.cache
 /Users/patryk/Projects/MagicVilla/MagicVilla_VillaAPI/obj/Debug/net7.0/ref/MagicVilla_VillaAPI.dll
+/Users/patryk/Projects/MagicVilla/MagicVilla_VillaAPI/bin/Debug/net7.0/Microsoft.AspNetCore.JsonPatch.dll
+/Users/patryk/Projects/MagicVilla/MagicVilla_VillaAPI/bin/Debug/net7.0/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+/Users/patryk/Projects/MagicVilla/MagicVilla_VillaAPI/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/patryk/Projects/MagicVilla/MagicVilla_VillaAPI/bin/Debug/net7.0/Newtonsoft.Json.Bson.dll
+/Users/patryk/Projects/MagicVilla/MagicVilla_VillaAPI/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/Users/patryk/Projects/MagicVilla/MagicVilla_VillaAPI/bin/Debug/net7.0/Serilog.dll
+/Users/patryk/Projects/MagicVilla/MagicVilla_VillaAPI/bin/Debug/net7.0/Serilog.AspNetCore.dll
+/Users/patryk/Projects/MagicVilla/MagicVilla_VillaAPI/bin/Debug/net7.0/Serilog.Extensions.Hosting.dll
+/Users/patryk/Projects/MagicVilla/MagicVilla_VillaAPI/bin/Debug/net7.0/Serilog.Extensions.Logging.dll
+/Users/patryk/Projects/MagicVilla/MagicVilla_VillaAPI/bin/Debug/net7.0/Serilog.Formatting.Compact.dll
+/Users/patryk/Projects/MagicVilla/MagicVilla_VillaAPI/bin/Debug/net7.0/Serilog.Settings.Configuration.dll
+/Users/patryk/Projects/MagicVilla/MagicVilla_VillaAPI/bin/Debug/net7.0/Serilog.Sinks.Console.dll
+/Users/patryk/Projects/MagicVilla/MagicVilla_VillaAPI/bin/Debug/net7.0/Serilog.Sinks.Debug.dll
+/Users/patryk/Projects/MagicVilla/MagicVilla_VillaAPI/bin/Debug/net7.0/Serilog.Sinks.File.dll
