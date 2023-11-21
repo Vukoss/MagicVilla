@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "S557F/YUvVf5VcX//jsXjjnmIykdWkZGNR0rPqoVNziPiITMV6cNKYkfJs8nnebNBNQ7RFHQNu1+hjSdYm2S0w==",
+  "dgSpecHash": "QBr+cP5tm6kY5GkuKNg3wCETFeS2yGKzdE5g1MMUfvi7Q5oPFAP0dqSDz/a7Nw1oCwCqqEndqCGAboOOPIK6zQ==",
   "success": true,
   "projectFilePath": "/Users/patryk/Projects/MagicVilla/MagicVilla_VillaAPI/MagicVilla_VillaAPI.csproj",
   "expectedPackageFiles": [
+    "/Users/patryk/.nuget/packages/automapper/12.0.1/automapper.12.0.1.nupkg.sha512",
+    "/Users/patryk/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/12.0.1/automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
     "/Users/patryk/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
     "/Users/patryk/.nuget/packages/microsoft.aspnetcore.jsonpatch/7.0.14/microsoft.aspnetcore.jsonpatch.7.0.14.nupkg.sha512",
     "/Users/patryk/.nuget/packages/microsoft.aspnetcore.mvc.newtonsoftjson/7.0.14/microsoft.aspnetcore.mvc.newtonsoftjson.7.0.14.nupkg.sha512",
