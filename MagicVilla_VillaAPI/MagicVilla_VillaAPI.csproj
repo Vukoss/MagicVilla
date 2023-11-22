@@ -34,6 +34,7 @@
     <None Remove="Models\DTO\" />
     <None Remove="Data\" />
     <None Remove="Repository\" />
+    <None Remove="Repository\IRepository\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Controllers\" />
@@ -41,5 +42,6 @@
     <Folder Include="Models\DTO\" />
     <Folder Include="Data\" />
     <Folder Include="Repository\" />
+    <Folder Include="Repository\IRepository\" />
   </ItemGroup>
 </Project>

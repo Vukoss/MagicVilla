@@ -54,3 +54,5 @@
 /Users/patryk/Projects/MagicVilla/MagicVilla_VillaAPI/bin/Debug/net7.0/Npgsql.dll
 /Users/patryk/Projects/MagicVilla/MagicVilla_VillaAPI/bin/Debug/net7.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
 /Users/patryk/Projects/MagicVilla/MagicVilla_VillaAPI/bin/Debug/net7.0/System.CodeDom.dll
+/Users/patryk/Projects/MagicVilla/MagicVilla_VillaAPI/bin/Debug/net7.0/AutoMapper.dll
+/Users/patryk/Projects/MagicVilla/MagicVilla_VillaAPI/bin/Debug/net7.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll

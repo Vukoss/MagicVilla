@@ -1,14 +1,32 @@
 ﻿<Properties StartupConfiguration="{5C194EB7-F815-4481-B14D-7A8B3DEAA242}|https">
-  <MonoDevelop.Ide.ItemProperties.MagicVilla__VillaAPI PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="MagicVilla_VillaAPI/Controllers/VillaAPIController.cs">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MagicVilla_VillaAPI/Repository/Repository.cs">
     <Files>
-      <File FileName="MagicVilla_VillaAPI/Controllers/VillaAPIController.cs" Line="55" Column="73" />
+      <File FileName="MagicVilla_VillaAPI/Repository/Repository.cs" Line="13" Column="33" />
+      <File FileName="MagicVilla_VillaAPI/Repository/IRepository/IRepository.cs" Line="14" Column="6" />
     </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MagicVilla" expanded="True">
+            <Node name="MagicVilla_VillaAPI">
+              <Node name="Repository">
+                <Node name="IRepository" expanded="True" />
+                <Node name="Repository.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.MagicVilla__VillaAPI PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>
