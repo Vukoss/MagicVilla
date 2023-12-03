@@ -1,6 +1,4 @@
-﻿using System;
-using MagicVilla_VillaAPI.Data;
-using MagicVilla_VillaAPI.Models;
+﻿using MagicVilla_VillaAPI.Data;
 using Microsoft.EntityFrameworkCore;
 using System.Linq.Expressions;
 using MagicVilla_VillaAPI.Repository.IRepository;
@@ -15,7 +13,7 @@ namespace MagicVilla_VillaAPI.Repository
         public Repository(ApplicationDbContext db)
         {
             _db = db;
-            this.dbSet = _db.Set<T>();
+            dbSet = _db.Set<T>();
         }
 
         public async Task CreateAsync(T entity)

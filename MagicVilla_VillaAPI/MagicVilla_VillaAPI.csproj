@@ -37,11 +37,6 @@
     <None Remove="Repository\IRepository\" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Controllers\" />
-    <Folder Include="Models\" />
-    <Folder Include="Models\DTO\" />
     <Folder Include="Data\" />
-    <Folder Include="Repository\" />
-    <Folder Include="Repository\IRepository\" />
   </ItemGroup>
 </Project>
