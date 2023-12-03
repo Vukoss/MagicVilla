@@ -10,4 +10,8 @@ public class VillaNumber
     public string SpecialDetails { get; set; }
     public DateTime CreatedDate { get; set; }
     public DateTime UpdateDate { get; set; }
+    
+    [ForeignKey("Villa")]
+    public int VillaID { get; set; }
+    public Villa Villa { get; set; }
 }

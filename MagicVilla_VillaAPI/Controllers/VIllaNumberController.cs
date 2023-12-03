@@ -14,12 +14,14 @@ public class VIllaNumberController : ControllerBase
 {
     private readonly IVillaNumberRepository _dbVillaNumber;
     private readonly IMapper _mapper;
+    private readonly IVillaRepository _dbVilla;
     protected APIResponse _response;
     
-    public VIllaNumberController(IVillaNumberRepository dbVillaNumber, IMapper mapper)
+    public VIllaNumberController(IVillaNumberRepository dbVillaNumber, IMapper mapper, IVillaRepository dbVilla)
     {
         _dbVillaNumber = dbVillaNumber;
         _mapper = mapper;
+        _dbVilla = dbVilla;
         this._response = new();
     }
     
@@ -87,6 +89,12 @@ public class VIllaNumberController : ControllerBase
                     return BadRequest(ModelState);
                 }
 
+                if (await _dbVilla.GetAsync(u => u.Id == createDTO.VillaID) == null)
+                {
+                    ModelState.AddModelError("CustomError", "Villa Number already Exsists");
+                    return BadRequest(ModelState);
+                }
+
                 if (createDTO == null)
                 {
                     return BadRequest(createDTO);
@@ -143,7 +151,13 @@ public class VIllaNumberController : ControllerBase
                 {
                     return BadRequest();
                 }
-
+                
+                if (await _dbVilla.GetAsync(u => u.Id == updateDTO.VillaID) == null)
+                {
+                    ModelState.AddModelError("CustomError", "Villa Number already Exsists");
+                    return BadRequest(ModelState);
+                }
+                
                 VillaNumber model = _mapper.Map<VillaNumber>(updateDTO);
 
                 await _dbVillaNumber.UpdateAsync(model);
