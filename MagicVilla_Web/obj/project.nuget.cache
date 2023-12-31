@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "a+wQyHRUjN+MxapzSLGj2PP3nQhzqdR/WWL/yJwp8gz/s4ql58FUVr8zzcymNmnbq1ykcUF0uRR6nIlHNFQPtg==",
+  "success": true,
+  "projectFilePath": "/Users/patryk/Projects/MagicVilla/MagicVilla_Web/MagicVilla_Web.csproj",
+  "expectedPackageFiles": [
+    "/Users/patryk/.nuget/packages/automapper/12.0.1/automapper.12.0.1.nupkg.sha512",
+    "/Users/patryk/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/12.0.1/automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
+    "/Users/patryk/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
+    "/Users/patryk/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/6.0.0/microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "/Users/patryk/.nuget/packages/microsoft.extensions.options/6.0.0/microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "/Users/patryk/.nuget/packages/microsoft.extensions.primitives/6.0.0/microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "/Users/patryk/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
+    "/Users/patryk/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+/Users/patryk/Projects/MagicVilla/MagicVilla_Library/bin/Debug/net7.0/MagicVilla_Library.deps.json
+/Users/patryk/Projects/MagicVilla/MagicVilla_Library/bin/Debug/net7.0/MagicVilla_Library.dll
+/Users/patryk/Projects/MagicVilla/MagicVilla_Library/bin/Debug/net7.0/MagicVilla_Library.pdb
+/Users/patryk/Projects/MagicVilla/MagicVilla_Library/obj/Debug/net7.0/MagicVilla_Library.csproj.AssemblyReference.cache
+/Users/patryk/Projects/MagicVilla/MagicVilla_Library/obj/Debug/net7.0/MagicVilla_Library.GeneratedMSBuildEditorConfig.editorconfig
+/Users/patryk/Projects/MagicVilla/MagicVilla_Library/obj/Debug/net7.0/MagicVilla_Library.AssemblyInfoInputs.cache
+/Users/patryk/Projects/MagicVilla/MagicVilla_Library/obj/Debug/net7.0/MagicVilla_Library.AssemblyInfo.cs
+/Users/patryk/Projects/MagicVilla/MagicVilla_Library/obj/Debug/net7.0/MagicVilla_Library.csproj.CoreCompileInputs.cache
+/Users/patryk/Projects/MagicVilla/MagicVilla_Library/obj/Debug/net7.0/MagicVilla_Library.dll
+/Users/patryk/Projects/MagicVilla/MagicVilla_Library/obj/Debug/net7.0/refint/MagicVilla_Library.dll
+/Users/patryk/Projects/MagicVilla/MagicVilla_Library/obj/Debug/net7.0/MagicVilla_Library.pdb
+/Users/patryk/Projects/MagicVilla/MagicVilla_Library/obj/Debug/net7.0/ref/MagicVilla_Library.dll
